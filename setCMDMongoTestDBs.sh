@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export MONGODB_DATABASE=test
+export MONGODB_FILTERS_DATABASE=test
+export MONGODB_IMPORTS_DATABASE=test
