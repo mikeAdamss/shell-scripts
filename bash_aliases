@@ -1,1 +1,1 @@
-alias testo="i was ser"
+alias testo="echo try a thing out"
