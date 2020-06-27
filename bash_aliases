@@ -1,1 +1,1 @@
-export testo="i was ser"
+alias testo="i was ser"
